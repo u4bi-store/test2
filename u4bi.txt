@@ -1,1 +1,7 @@
+setsup_mana
+color
+feth
+push
 setup
+manisa
+nasaticz_boyzf230_ATF_nfc_mode
