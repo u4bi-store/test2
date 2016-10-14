@@ -131,3 +131,39 @@ git merge develop
 <br>
 git log
 <br>
+git reset --hard a1fa0
+<br>
+git branch
+<br>
+git log
+<br>
+git reflog
+<br>
+vi test.txt
+<br>
+git status
+<br>
+git add .
+<br>
+git commit -m 'modify test.txt korean'
+<br>
+git log
+<br>
+git status
+<br>
+git merge develop
+<br>
+git status
+<br>
+git add .
+<br>
+git commit -m 'merge'
+<br>
+git log
+<br>
+git status
+<br>
+git checkout develop
+<br>
+git log
+<br>
