@@ -168,4 +168,4 @@ git checkout develop
 <br>
 git log
 <br>
-![Alt text](image.png)
+![Alt text](merge.png)
